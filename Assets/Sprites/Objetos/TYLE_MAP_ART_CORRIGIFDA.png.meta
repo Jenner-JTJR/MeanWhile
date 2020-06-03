@@ -1,0 +1,1616 @@
+fileFormatVersion: 2
+guid: 1ee05ccc581dc0442804d98cb5d1bf12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -834493078440035351
+    second: TYLE_MAP_ART_CORRIGIFDA_0
+  - first:
+      213: -5817715686496676082
+    second: TYLE_MAP_ART_CORRIGIFDA_1
+  - first:
+      213: -5646895428727316673
+    second: TYLE_MAP_ART_CORRIGIFDA_2
+  - first:
+      213: 2307900142748785071
+    second: TYLE_MAP_ART_CORRIGIFDA_3
+  - first:
+      213: -2002273775850344367
+    second: TYLE_MAP_ART_CORRIGIFDA_4
+  - first:
+      213: 1744968415921888647
+    second: TYLE_MAP_ART_CORRIGIFDA_5
+  - first:
+      213: -9099546891171535679
+    second: TYLE_MAP_ART_CORRIGIFDA_6
+  - first:
+      213: -431949394912943091
+    second: TYLE_MAP_ART_CORRIGIFDA_7
+  - first:
+      213: -8124505087970276105
+    second: TYLE_MAP_ART_CORRIGIFDA_8
+  - first:
+      213: 3894610497798877726
+    second: TYLE_MAP_ART_CORRIGIFDA_9
+  - first:
+      213: -8016647930824811629
+    second: TYLE_MAP_ART_CORRIGIFDA_10
+  - first:
+      213: -3224576022191984209
+    second: TYLE_MAP_ART_CORRIGIFDA_11
+  - first:
+      213: 3627013605134404682
+    second: TYLE_MAP_ART_CORRIGIFDA_12
+  - first:
+      213: 1986544776482609523
+    second: TYLE_MAP_ART_CORRIGIFDA_13
+  - first:
+      213: -5741715370578686217
+    second: TYLE_MAP_ART_CORRIGIFDA_14
+  - first:
+      213: 1077533303919488432
+    second: TYLE_MAP_ART_CORRIGIFDA_15
+  - first:
+      213: 5977555016833464234
+    second: TYLE_MAP_ART_CORRIGIFDA_16
+  - first:
+      213: 2234826748868060722
+    second: TYLE_MAP_ART_CORRIGIFDA_17
+  - first:
+      213: 7999232919827506263
+    second: TYLE_MAP_ART_CORRIGIFDA_18
+  - first:
+      213: -8983633537975503271
+    second: TYLE_MAP_ART_CORRIGIFDA_19
+  - first:
+      213: 1838421768705428841
+    second: TYLE_MAP_ART_CORRIGIFDA_20
+  - first:
+      213: 8133126667419236778
+    second: TYLE_MAP_ART_CORRIGIFDA_21
+  - first:
+      213: 5540185333688191623
+    second: TYLE_MAP_ART_CORRIGIFDA_22
+  - first:
+      213: 741925247785356787
+    second: TYLE_MAP_ART_CORRIGIFDA_23
+  - first:
+      213: -6559490259021950971
+    second: TYLE_MAP_ART_CORRIGIFDA_24
+  - first:
+      213: 4088851892861083450
+    second: TYLE_MAP_ART_CORRIGIFDA_25
+  - first:
+      213: -2871910541867795579
+    second: TYLE_MAP_ART_CORRIGIFDA_26
+  - first:
+      213: 2691995421507276302
+    second: TYLE_MAP_ART_CORRIGIFDA_27
+  - first:
+      213: -7821927064607334711
+    second: TYLE_MAP_ART_CORRIGIFDA_28
+  - first:
+      213: 1634933790416492482
+    second: TYLE_MAP_ART_CORRIGIFDA_29
+  - first:
+      213: -4023409972244699235
+    second: TYLE_MAP_ART_CORRIGIFDA_30
+  - first:
+      213: 4653223442128809939
+    second: TYLE_MAP_ART_CORRIGIFDA_31
+  - first:
+      213: -2476714734250114088
+    second: TYLE_MAP_ART_CORRIGIFDA_32
+  - first:
+      213: 8953490237466607168
+    second: TYLE_MAP_ART_CORRIGIFDA_33
+  - first:
+      213: -6042879922959972637
+    second: TYLE_MAP_ART_CORRIGIFDA_34
+  - first:
+      213: 1305398390315601667
+    second: TYLE_MAP_ART_CORRIGIFDA_35
+  - first:
+      213: 5777068527245754
+    second: TYLE_MAP_ART_CORRIGIFDA_36
+  - first:
+      213: -187001003114109355
+    second: TYLE_MAP_ART_CORRIGIFDA_37
+  - first:
+      213: 611083187950411500
+    second: TYLE_MAP_ART_CORRIGIFDA_38
+  - first:
+      213: -1224207780704087497
+    second: TYLE_MAP_ART_CORRIGIFDA_39
+  - first:
+      213: -7030886633402954697
+    second: TYLE_MAP_ART_CORRIGIFDA_40
+  - first:
+      213: 7956703079428147440
+    second: TYLE_MAP_ART_CORRIGIFDA_41
+  - first:
+      213: -5844949199442649114
+    second: TYLE_MAP_ART_CORRIGIFDA_42
+  - first:
+      213: 2281939039527352853
+    second: TYLE_MAP_ART_CORRIGIFDA_43
+  - first:
+      213: -7931947641796564069
+    second: TYLE_MAP_ART_CORRIGIFDA_44
+  - first:
+      213: 3259648115556471815
+    second: TYLE_MAP_ART_CORRIGIFDA_45
+  - first:
+      213: 4994032372882136810
+    second: TYLE_MAP_ART_CORRIGIFDA_46
+  - first:
+      213: 8896618391951020667
+    second: TYLE_MAP_ART_CORRIGIFDA_47
+  - first:
+      213: -8896983102684420652
+    second: TYLE_MAP_ART_CORRIGIFDA_48
+  - first:
+      213: 7475963943471028942
+    second: TYLE_MAP_ART_CORRIGIFDA_49
+  - first:
+      213: -4445128115727097002
+    second: TYLE_MAP_ART_CORRIGIFDA_50
+  - first:
+      213: -4776563181721225904
+    second: TYLE_MAP_ART_CORRIGIFDA_51
+  - first:
+      213: 8184271878905167416
+    second: TYLE_MAP_ART_CORRIGIFDA_52
+  - first:
+      213: 113424347806524077
+    second: TYLE_MAP_ART_CORRIGIFDA_53
+  - first:
+      213: -6342500475699549290
+    second: TYLE_MAP_ART_CORRIGIFDA_54
+  - first:
+      213: -4104560335365327108
+    second: TYLE_MAP_ART_CORRIGIFDA_55
+  - first:
+      213: 7757903245022538904
+    second: TYLE_MAP_ART_CORRIGIFDA_56
+  - first:
+      213: 586074479707973218
+    second: TYLE_MAP_ART_CORRIGIFDA_57
+  - first:
+      213: -6868205496438760102
+    second: TYLE_MAP_ART_CORRIGIFDA_58
+  - first:
+      213: -4551238030120461293
+    second: TYLE_MAP_ART_CORRIGIFDA_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 295
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb3f0c67f84b64f0800000000000000
+      internalID: -834493078440035351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 298
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07d52e1862534fa0800000000000000
+      internalID: -5817715686496676082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 293
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f5eeea68232a1b0800000000000000
+      internalID: -5646895428727316673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 296
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa95d99b3fe470020800000000000000
+      internalID: 2307900142748785071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 294
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1503c5ffb9e7634e0800000000000000
+      internalID: -2002273775850344367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 302
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ddc4f678f573810800000000000000
+      internalID: 1744968415921888647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 301
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4e5be505ae7b180800000000000000
+      internalID: -9099546891171535679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_7
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 301
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04e44b5058610af0800000000000000
+      internalID: -431949394912943091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 283
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8daffaa5ff3f80800000000000000
+      internalID: -8124505087970276105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e123fcbfc9f6c0630800000000000000
+      internalID: 3894610497798877726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 258
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b11d15e252fb090800000000000000
+      internalID: -8016647930824811629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 259
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1310e31310043d0800000000000000
+      internalID: -3224576022191984209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 231
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c8b8938adb55230800000000000000
+      internalID: 3627013605134404682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_13
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 267
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37957a4f2ff919b10800000000000000
+      internalID: 1986544776482609523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 266
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fec1479a445150b0800000000000000
+      internalID: -5741715370578686217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 276
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd26c5b4da24fe00800000000000000
+      internalID: 1077533303919488432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 232
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa776bb0e9a84f250800000000000000
+      internalID: 5977555016833464234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 229
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23662d46613b30f10800000000000000
+      internalID: 2234826748868060722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 201
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754ede575fbf20f60800000000000000
+      internalID: 7999232919827506263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 231
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9563fa005e8b35380800000000000000
+      internalID: -8983633537975503271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 231
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d4807bbd2638910800000000000000
+      internalID: 1838421768705428841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 231
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9b7c4ec9baed070800000000000000
+      internalID: 8133126667419236778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 203
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a40543531b2ec40800000000000000
+      internalID: 5540185333688191623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 202
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc32cf419db4a00800000000000000
+      internalID: 741925247785356787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 199
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5009c53fc5208f4a0800000000000000
+      internalID: -6559490259021950971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 165
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f1b2502258eb830800000000000000
+      internalID: 4088851892861083450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 169
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b3545049ce428d0800000000000000
+      internalID: -2871910541867795579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 164
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e4be3b293eb5520800000000000000
+      internalID: 2691995421507276302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 129
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ced01fe6cee27390800000000000000
+      internalID: -7821927064607334711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 166
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7de01ce9370b610800000000000000
+      internalID: 1634933790416492482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 167
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97279a72f9f928c0800000000000000
+      internalID: -4023409972244699235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_31
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 136
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfab981112939040800000000000000
+      internalID: 4653223442128809939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 8
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3cb074211f0add0800000000000000
+      internalID: -2476714734250114088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eff10feef214c70800000000000000
+      internalID: 8953490237466607168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e681a30ab0632ca0800000000000000
+      internalID: -6042879922959972637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_35
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 131
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc0217be4bd1210800000000000000
+      internalID: 1305398390315601667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 99
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9d8659636841000800000000000000
+      internalID: 5777068527245754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 98
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556edb41493a76df0800000000000000
+      internalID: -187001003114109355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 98
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee5ff9fbe00b7800800000000000000
+      internalID: 611083187950411500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 96
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7321dd3728db20fe0800000000000000
+      internalID: -1224207780704087497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_40
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 99
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c89ffabd54d6e90800000000000000
+      internalID: -7030886633402954697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f842985b43eb6e60800000000000000
+      internalID: 7956703079428147440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 36
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef5405cba192eea0800000000000000
+      internalID: -5844949199442649114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51abf1a57731baf10800000000000000
+      internalID: 2281939039527352853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9be7b125af0ce190800000000000000
+      internalID: -7931947641796564069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704d384d0b89c3d20800000000000000
+      internalID: 3259648115556471815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_46
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 68
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeed07ecbfd5e4540800000000000000
+      internalID: 4994032372882136810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_47
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 68
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72927a8a43277b70800000000000000
+      internalID: 8896618391951020667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_48
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 45
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5a7df9101978480800000000000000
+      internalID: -8896983102684420652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 65
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca1834e895ffb760800000000000000
+      internalID: 7475963943471028942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_50
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 65
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6532cf0b78bbf42c0800000000000000
+      internalID: -4445128115727097002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 36
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055fb42f71d36bdb0800000000000000
+      internalID: -4776563181721225904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_52
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 34
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e7c5769ef549170800000000000000
+      internalID: 8184271878905167416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 34
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da263e7e7d6f29100800000000000000
+      internalID: 113424347806524077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bae2edb69eaf7a0800000000000000
+      internalID: -6342500475699549290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf634633f1ca907c0800000000000000
+      internalID: -4104560335365327108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_56
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 9
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c2b61f5eb99ab60800000000000000
+      internalID: 7757903245022538904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_57
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2666ae652a7222800800000000000000
+      internalID: 586074479707973218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 196
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dd1648d7b3fa0a0800000000000000
+      internalID: -6868205496438760102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TYLE_MAP_ART_CORRIGIFDA_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 194
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cdb660021c6d0c0800000000000000
+      internalID: -4551238030120461293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

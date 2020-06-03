@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - Waypoints
+  - RustedDoor
+  - GoldenDoor
+  - RustedKey
+  - GoldenKey
+  - Paper
+  - OneTimeEvent
+  - CheckPoint
+  - GM
+  - UI
+  - Musica
+  - Som
+  - DisableEvent
+  - XDoor
+  - keyless
+  - AlavancaLeft
+  - AlavancaMeio
+  - AlavancaRight
+  - Tocha
+  - PortaMadeira
+  - PortaRunica
+  - LowIntensity
+  - Obar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Chao
+    uniqueID: 1996936595
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Parede Baixo
+    uniqueID: 1862663783
+    locked: 0
+  - name: Door
+    uniqueID: 2122260471
+    locked: 0
+  - name: Player
+    uniqueID: 4141166069
+    locked: 0
+  - name: Parede alta
+    uniqueID: 2336045609
+    locked: 0
+  - name: Tocha
+    uniqueID: 3924946273
+    locked: 0
+  - name: New Layer
+    uniqueID: 1621812945
+    locked: 0
+  - name: alto
+    uniqueID: 732214135
+    locked: 0
+  - name: New Layer
+    uniqueID: 3494105035
+    locked: 0
